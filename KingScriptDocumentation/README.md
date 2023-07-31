@@ -13,9 +13,9 @@ This project is meant to be a tool for programmers to create documentation quick
 
 ### JF 1.3
 - Can describe all the roles and responsibilities of the project life cycle within their organization and their role.
-- In the Documentation Creator project, I played a crucial role in defining and managing the project life cycle.
-- I collaborated with the project stakeholders to identify their requirements and expectations for the documentation tool.
-- I took on the responsibility of overseeing the development process, ensuring that each team member understood their roles and responsibilities, and adhered to the project timeline.
+- As the developer for the Documentation Creator project, I took on the responsibility of defining all the roles and responsibilities for the entire project life cycle.
+- I carefully assessed the various tasks involved in the development process, including requirements gathering, design, implementation, testing, and deployment.
+- By efficiently managing these responsibilities, I ensured a streamlined and well-organized development process, leading to the successful creation of the Documentation Creator tool.
 
 ### JF 3.5
 - Can apply algorithms, logic, and data structures.
