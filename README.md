@@ -20,7 +20,7 @@ During my apprenticeship at American Express I worked on the digital acquisition
 ## Application 2: Model Portfolio Website
 - JF 2.3: Can develop effective user interfaces.
 - JF 5.6: Understands how to follow testing frameworks and methodologies.
-- JF 6.3: Able to communicate software solutions and ideas to technical and non-technical stakeholders.
+- JF 6.6: Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve.
 
 ## Application 3: Documentation Creator
 - JF 1.3: Can describe all the roles and responsibilities of the project life cycle within their organization and their role.
