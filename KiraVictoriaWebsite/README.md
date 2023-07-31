@@ -20,8 +20,8 @@ This website is a photo portfolio for photographer and modeling agency prospects
 - I followed industry-standard testing methodologies for frontend development, including cross-browser testing and responsive design testing.
 - As a result, the website performed well across various browsers and devices, providing a consistent and satisfying user experience.
 
-### JF 6.3
-- Able to communicate software solutions and ideas to technical and non-technical stakeholders.
-- Throughout the development of the Model Portfolio Website, I collaborated with the photographer, modeling agency, and potential users to gather requirements and incorporate their feedback.
-- I communicated the technical aspects of the website's design and development in a way that non-technical stakeholders could easily understand.
-- This effective communication ensured that the website met the expectations of the photographer and modeling agency, resulting in a successful and visually appealing portfolio website.
+### JF 6.6
+- Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve.
+- As the sole developer of the Model Portfolio Website, I exhibited resourcefulness when encountering challenges and obstacles during the development process.
+- When faced with design inconsistencies in the wireframes, I took the initiative to review and refine the designs, ensuring a cohesive and visually appealing user interface.
+- Additionally, I explored various online resources and utilized my skills and knowledge to overcome technical hurdles, resulting in a fully functional and polished portfolio website.
