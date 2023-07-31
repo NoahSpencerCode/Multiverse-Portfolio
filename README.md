@@ -30,4 +30,4 @@ During my apprenticeship at American Express I worked on the digital acquisition
 ## Application 4: Digital Credit Card
 - JF 1.2: Can describe the roles and responsibilities within the software development lifecycle (who is responsible for what).
 - JF 3.6: Can implement a RESTful API.
-- JF 4.7: Can conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance, and Security testing.
+- JF 4.2: Acts with integrity with respect to ethical, legal, and regulatory ensuring the protection of personal data, safety, and security.
