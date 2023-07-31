@@ -9,6 +9,8 @@ This project is meant to be a tool for programmers to create documentation quick
 - React
 - Material UI
 
+Loom walkthough https://www.loom.com/share/e790948eb0e2430b9933fb142ba1ce78?sid=1f2d3ef6-00e0-487a-a6c2-9b1456e4cbdd
+
 ## Competencies
 
 ### JF 1.3
