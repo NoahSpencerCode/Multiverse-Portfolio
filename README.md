@@ -14,8 +14,8 @@ During my apprenticeship at American Express I worked on the digital acquisition
 
 ## Application 1: One-Data-Js Backend App
 - JF 3.4: Can create a logical and maintainable codebase.
-- JF 2.7: Effectively manages state for complex User Interfaces.
-- JF 6.1: Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences.
+- JF 3.8: Can encrypt sensitive data via hashing.
+- JF 6.6: Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve.
 
 ## Application 2: Model Portfolio Website
 - JF 2.3: Can develop effective user interfaces.
