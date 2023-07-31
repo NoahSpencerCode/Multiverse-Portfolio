@@ -8,6 +8,8 @@ This is a mock credit card system, where users are able to input a credit score 
 - Maven
 - MongoDB
 
+Loom walkthrough https://www.loom.com/share/dea344a6beec4561bb77d115ecbea44b?sid=826b6c90-9f20-4102-bda5-c24b845083a9
+
 ## Competencies
 
 ### JF 1.1
