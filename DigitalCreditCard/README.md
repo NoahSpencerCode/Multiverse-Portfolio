@@ -10,11 +10,15 @@ This is a mock credit card system, where users are able to input a credit score 
 
 ## Competencies
 
-### JF 1.2
-- Can describe the roles and responsibilities within the software development lifecycle (who is responsible for what).
-- In the Digital Credit Card project, I was involved in defining the roles and responsibilities of the development team.
-- I collaborated with team members to allocate tasks based on individual strengths and expertise.
-- I took the responsibility of overseeing the coordination between backend and frontend developers to ensure smooth integration of the credit card system.
+### JF 1.1
+
+- Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs).
+- In the development of the Digital Credit Card backend system, I demonstrated a clear understanding of the entire software development life cycle and its stages.
+- During the planning stage, I gathered requirements and defined the scope of the credit card system.
+- In the design phase, I created software designs and technical specifications based on the requirements.
+- During the implementation phase, I coded the backend functionalities using Java and Vert.x, ensuring modularity and maintainability.
+- In the testing phase, I conducted various types of tests, to verify the system's correctness and robustness.
+- Finally, during the deployment phase, I set up the application on the MongoDB database and made it ready for use.
 
 ### JF 3.6
 - Can implement a RESTful API.
