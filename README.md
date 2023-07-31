@@ -28,6 +28,6 @@ During my apprenticeship at American Express I worked on the digital acquisition
 - JF 6.4: Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges.
 
 ## [Application 4: Digital Credit Card](DigitalCreditCard)
-- JF 1.2: Can describe the roles and responsibilities within the software development lifecycle (who is responsible for what).
+- JF 1.1: Can explain all stages of the software development life cycle (what each stage contains, including the inputs and outputs).
 - JF 3.6: Can implement a RESTful API.
 - JF 4.2: Acts with integrity with respect to ethical, legal, and regulatory ensuring the protection of personal data, safety, and security.
