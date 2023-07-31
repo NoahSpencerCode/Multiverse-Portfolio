@@ -1,6 +1,6 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my 05/16/22 - 09/18/23 apprenticeship at American Express.
+This repository is a collection of some of my key learnings during my 05/16/22 - 08/18/23 apprenticeship at American Express.
 
 ## Overview of Apprenticeship
 - **Host Company**: American Express
