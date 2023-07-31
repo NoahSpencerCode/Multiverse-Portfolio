@@ -15,16 +15,16 @@ This is a backend app that uses Amex's One-data-js framework. Unable to show sou
 - I created separate modules for different functionalities, such as authentication, authorization, and data handling, which allowed for easier code maintenance and updates.
 - The result was a clean and well-structured codebase that facilitated collaboration among team members and streamlined the development process.
 
-### JF 2.7
+### JF 3.8
 
-- Effectively manages state for complex User Interfaces.
-- Though the application is a backend system, I also collaborated with front-end developers to ensure seamless integration of the user interface with the backend functionalities.
-- I provided clear and well-documented API specifications, enabling the front-end team to effectively manage state and interact with the backend services.
-- As a result, the development process was smoother, and the application's user interface was able to interact seamlessly with the backend services.
+- Can encrypt sensitive data via hashing.
+- In the solo backend project, I prioritized the security of sensitive user data, such as credit card numbers or passwords.
+- I implemented robust hashing algorithms to securely store and handle sensitive information in the database.
+- By ensuring data encryption, I safeguarded the users' confidential information and protected the application from potential security breaches.
 
-### JF 6.1
+### JF 6.6
 
-- Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences.
-- During the development of the One-Data-Js backend app, I actively engaged with both technical and non-technical stakeholders to gather requirements and provide updates on the progress of the project.
-- I used clear and concise communication to explain complex technical concepts to non-technical stakeholders, ensuring a shared understanding of the project's objectives and outcomes.
-- This effective communication fostered collaboration and alignment among team members and stakeholders, leading to the successful delivery of the application.
+- Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve.
+- Throughout the solo backend project, I encountered various technical challenges and obstacles.
+- I demonstrated initiative by proactively seeking solutions to these challenges, researching best practices, and leveraging online resources and documentation.
+- By being resourceful and proactive, I efficiently resolved issues, maintained project momentum, and delivered a functional backend system.
