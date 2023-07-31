@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kira Victoria</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <header class="heading">
+        <h1 id="Header_Name" class="header_content">Kira Victoria</h1>
+        <nav id="Header_Nav" class="heading header_content">
+            <a href="#section1">About Me</a>
+            <a href="#section2">Photography</a>
+            <a href="#section3">Videography</a>
+            <a href="#section4">Contact</a>
+            <a href="https://instagram.com/kiravspencer?" style="padding-right: 0; padding-left: 0;">
+                <img src="images/insta.png" alt="Instagram logo"/>
+            </a>
+            <a href="https://www.tiktok.com/t/ZTdwswbPL/" style="padding-left: 0;">
+                <img src="images/tiktok2.png" alt="Tiktok logo" style="width: 50px;"/>
+            </a>
+        </nav>
+    </header>
+
+    <div id="bg">
+        <img src="images/newbackground.png" class="para" style="object-position: center 0%;"/>
+        <h2 id="sec_kira">KIRA</h2>
+        <img src="images/background5.JPG" class="para" style="object-position: center 10%;"/>
+        <h2 id="sec_photography">PHOTOGRAPHY</h2>
+        <img src="images/background3.JPG" class="para" style="object-position: center 30%;"/>
+        <h2 id="sec_videography">VIDEOGRAPHY</h2>
+        <img src="images/newbackground2.png" class="para" style="object-position: center 5%; height: 130vh;"/>
+        <h2 id="sec_contact">CONTACT ME</h2>
+    </div>
+    
+
+    <main>
+
+        <section id="section1">
+
+                <div id="about_text">
+                    <h1>About Me</h1>
+                    <h3 style="margin-bottom: 0;">Age: 21</h3>
+                    <h3 style="margin-top: 0;">Location: Arizona</h3>
+                    <p>Kira is an American model. She has been passionate about modeling since she was young.</p>
+                    <p>Kira has worked with a local proffesional agency called Agency AZ</p>
+                </div>
+
+                <div id="about_pictures">
+                    
+                </div>
+        </section>
+
+        <section id="section2">
+            
+        </section>
+        
+        <section id="section3">
+            
+        </section>
+        
+        <section id="section4">
+            <div class="form">
+                <form action="https://formsubmit.co/6b0a82afba68d97e4f67d6060bdb0d05" method="POST">
+                  <label for="fname">First Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="First Name">
+              
+                  <label for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lastname" placeholder="Last Name">
+              
+                  <label for="email">Email</label>
+                  <input type="text" id="email" name="email" placeholder="Email">
+              
+                  <label for="message">Message</label>
+                  <textarea id="message" name="message" placeholder="Write me a message" style="height:50%"></textarea>
+              
+                  <input type="submit" value="Submit">
+                </form>
+              </div>
+        </section>
+
+    </main>
+    <footer>
+        <h2>KVA</h2>
+        <a href="https://instagram.com/kiravanderson?">
+            <img src="images/insta.png" alt="Instagram logo"/>
+        </a>
+        <a href="https://www.tiktok.com/t/ZTdwswbPL/" style="padding-left: 0;">
+            <img src="images/tiktok2.png" alt="Tiktok logo" style="width: 50px;"/>
+        </a>
+    </footer>
+
+    <script type="text/javascript">
+
+
+        
+
+        let bg = document.getElementById('bg');
+        let sec_kira = document.getElementById('sec_kira')
+        let sec_photography = document.getElementById('sec_photography')
+        let sec_videography = document.getElementById('sec_videography')
+        let sec_contact = document.getElementById('sec_contact')
+
+        window.addEventListener('scroll', function(){
+            let value = window.scrollY;
+            
+            bg.style.top = value/window.innerHeight * 50 + 'vh';
+
+            let distFromKira = Math.abs(0-value/window.innerHeight)
+            sec_kira.style.opacity = 1-(distFromKira/.75)
+
+            let distFromPhoto = Math.abs(2-value/window.innerHeight)
+            sec_photography.style.opacity = 1-(distFromPhoto/.75)
+
+            let distFromVideo = Math.abs(4-value/window.innerHeight)
+            sec_videography.style.opacity = 1-(distFromVideo/.75)
+
+            let distFromContact = Math.abs(6-value/window.innerHeight)
+            sec_contact.style.opacity = 1-(distFromContact/.75)
+
+            console.log(distFromPhoto)
+        })
+
+        for (let i = 1; i <= 10; i++) {
+            const div = document.createElement('div');
+            div.id = 'newFrame'
+            div.style.backgroundImage = `url(images/${i}.JPG)`;
+            document.getElementById("about_pictures").appendChild(div);
+        }
+
+        for (let i = 1; i <= 30; i++) {
+            const div = document.createElement('div');
+            div.id = 'newFrame'
+            div.style.backgroundImage = `url(images/${i}.JPG)`;
+            document.getElementById("section2").appendChild(div);
+        }
+
+        for (let i = 1; i <= 30; i++) {
+            const div = document.createElement('div');
+            div.id = 'newFrame'
+            div.style.backgroundImage = `url(images/${i}.JPG)`;
+            document.getElementById("section3").appendChild(div);
+        }
+    </script>
+</body>
+</html>
+
