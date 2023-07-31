@@ -22,12 +22,10 @@ This is a mock credit card system, where users are able to input a credit score 
 - I designed and implemented endpoints for credit score input, credit limit assignment, card number generation, and charge transactions.
 - The implementation of these APIs enabled seamless communication between the frontend and backend components, allowing users to interact with the credit card system effectively.
 
-### JF 4.7
-- Can conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance, and Security testing.
-- Throughout the development of the Digital Credit Card application, I took charge of conducting comprehensive testing to ensure the system's reliability and security.
-- I performed integration tests to validate the interactions between different components of the credit card system.
-- I conducted user acceptance tests to verify that the credit card functionalities met the requirements and expectations of end-users.
-- Additionally, I executed security tests to identify and address potential vulnerabilities in the system, ensuring that users' sensitive credit card information remained secure.
+### JF 4.2
+- Acts with integrity with respect to ethical, legal, and regulatory ensuring the protection of personal data, safety, and security.
+- During the development of the Digital Credit Card backend system, I prioritized data security and compliance with relevant legal and regulatory standards.
+- I ensured that sensitive user data, such as credit card numbers and personal information, were encrypted and stored securely in the MongoDB database.
 
 ## Building
 
